@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   role_name: nodejs
-  author: geerlingguy
+  author: farisc0de
   description: Node.js installation for Linux
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
